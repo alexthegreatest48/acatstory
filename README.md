@@ -1,4 +1,4 @@
-# Сайт про меня
+# Сайт про меня.
 
 Всем привет! Меня зовут Засрыха, и я кот.
 ![](https://sun9-13.userapi.com/impg/nJ0tZ_-gzVnSfHsDvh2zmQEOPneR2zBeTx7HsQ/HJCcFp9hIRM.jpg?size=935x1280&quality=95&sign=03f52391d2dfadb0846a4d7430af579c&type=album)
